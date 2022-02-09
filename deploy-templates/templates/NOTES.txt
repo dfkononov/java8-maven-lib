@@ -1,1 +1,0 @@
-1. Application java8-maven-import-def-github has been successfully deployed!!
